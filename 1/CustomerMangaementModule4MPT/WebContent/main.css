@@ -1,0 +1,31 @@
+@CHARSET "ISO-8859-1";
+*{
+	background-color:#408080;
+}
+.btn
+		{
+			color:red;
+			background-color:green;
+			width:90px;
+			height:50px;
+			font-size:20px;
+			
+		}
+a{
+	height:50px;
+	border:0.5px black;
+	text-align:center;
+	background-color:purple;
+	font-size:20px;
+	padding :0px;
+	color:white;
+	text-decoration :none;
+	
+}
+table{
+		align:center;
+		padding: 20px;
+	}
+link{
+	color:gray;
+}
